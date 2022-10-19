@@ -1,2 +1,2 @@
 # Challenger-Bot
-This bot helps you challenge your friends for coding battle
+Use this bot to challenge your friends for coding battle
